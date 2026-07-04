@@ -1,0 +1,12 @@
+# --- MEU LEMBRETE DE WHILE ---
+# 1. Cria a variável antes
+# 2. Bota a condição no while e os dois pontos :
+# 3. Dá o TAB nas linhas de dentro
+# 4. Lembra de somar 1 no final (contador += 1) para não travar o PC!
+
+ferramentas = ["Alicate", "Chave de Fenda", "Multímetro"]
+#                 |               |               |
+#              Índice 0        Índice 1        Índice 2
+
+print(ferramentas[0])  # Vai mostrar: Alicate
+print(ferramentas[2])  # Vai mostrar: Multímetro
