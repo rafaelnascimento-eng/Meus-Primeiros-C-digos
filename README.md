@@ -18,4 +18,4 @@ Este é um script em Python desenvolvido para automatizar o processo de levantam
 1. Certifique-se de ter o Python 3 instalado.
 2. Execute o script no terminal:
    ```bash
-   python3 Auditoria Energética.py
+   python3 Auditoria_Energética.py
