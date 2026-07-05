@@ -10,7 +10,7 @@ while True:
     
     lista_aparelhos.append(aparelho)
 
-    continuar = input(f"Deseja cadastrar outro aparelho?").upper()
+    continuar = input(f"Deseja cadastrar outro aparelho? (S/N)").upper()
     if "N" in continuar:
         break
 
